@@ -1,0 +1,15 @@
+C:\Users\lopez\source\repos\ClassConvertApplication\bin\Debug\net5.0\ClassConvertApplication.exe
+C:\Users\lopez\source\repos\ClassConvertApplication\bin\Debug\net5.0\ClassConvertApplication.deps.json
+C:\Users\lopez\source\repos\ClassConvertApplication\bin\Debug\net5.0\ClassConvertApplication.runtimeconfig.json
+C:\Users\lopez\source\repos\ClassConvertApplication\bin\Debug\net5.0\ClassConvertApplication.runtimeconfig.dev.json
+C:\Users\lopez\source\repos\ClassConvertApplication\bin\Debug\net5.0\ClassConvertApplication.dll
+C:\Users\lopez\source\repos\ClassConvertApplication\bin\Debug\net5.0\ref\ClassConvertApplication.dll
+C:\Users\lopez\source\repos\ClassConvertApplication\bin\Debug\net5.0\ClassConvertApplication.pdb
+C:\Users\lopez\source\repos\ClassConvertApplication\obj\Debug\net5.0\ClassConvertApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lopez\source\repos\ClassConvertApplication\obj\Debug\net5.0\ClassConvertApplication.AssemblyInfoInputs.cache
+C:\Users\lopez\source\repos\ClassConvertApplication\obj\Debug\net5.0\ClassConvertApplication.AssemblyInfo.cs
+C:\Users\lopez\source\repos\ClassConvertApplication\obj\Debug\net5.0\ClassConvertApplication.csproj.CoreCompileInputs.cache
+C:\Users\lopez\source\repos\ClassConvertApplication\obj\Debug\net5.0\ClassConvertApplication.dll
+C:\Users\lopez\source\repos\ClassConvertApplication\obj\Debug\net5.0\ref\ClassConvertApplication.dll
+C:\Users\lopez\source\repos\ClassConvertApplication\obj\Debug\net5.0\ClassConvertApplication.pdb
+C:\Users\lopez\source\repos\ClassConvertApplication\obj\Debug\net5.0\ClassConvertApplication.genruntimeconfig.cache
